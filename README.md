@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - [CNCLI](https://github.com/AndrewWestberg/cncli) with a synchronized cncli.db SQLite database running
-- an API key to send your slots to pooldata.live API (can be requested on our [Telegram channel](https://t.me/pooldata)
+- an API key to send your slots to pooldata.live API (can be requested on our [Telegram channel](https://t.me/pooldata))
 - sqlite3 package installed
 
 ## How to setup
